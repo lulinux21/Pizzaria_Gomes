@@ -1,0 +1,44 @@
+/*
+Tipografia
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+
+Cores
+Verde Escuro: #065902;
+Verde mais claro: #078c31;
+Amarelo: #F2b705;
+Vermelho Claro: #F03733;
+Vermelho Escuro: #D90404;
+Cinza Escuro: #404040;
+Cinza Claro: #F7F7F7;
+*/
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+h1,
+h2,
+h3 {
+  font-family: "Fredericka the Great", cursive;
+  text-align: center;
+  text-transform: uppercase;
+  color: #d90404;
+}
+h1 {
+  font-size: 5em;
+  font-weight: 200;
+}
+h2 {
+  font-size: 3em;
+  font-weight: 200;
+}
+h4,
+h5,
+h6 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  color: #f2b705;
+}
