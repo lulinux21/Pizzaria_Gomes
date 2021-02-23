@@ -42,3 +42,8 @@ h6 {
   text-align: center;
   color: #f2b705;
 }
+p,
+li,
+a {
+  font-family: "Open Sans", sans-serif;
+}
