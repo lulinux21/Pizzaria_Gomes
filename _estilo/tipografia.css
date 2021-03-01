@@ -47,3 +47,32 @@ li,
 a {
   font-family: "Open Sans", sans-serif;
 }
+/* Elementos do Header */
+header div#chamada h1 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  text-shadow: 4px 6px 10px #000;
+}
+
+header div#chamada h4 {
+  font-size: 2.5em;
+  text-shadow: 4px 6px 10px #000;
+  margin-bottom: 55px;
+}
+
+header div#chamada a {
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 20px 80px;
+  border-radius: 50px;
+  text-shadow: 4px 6px 10px #000;
+  background-image: linear-gradient(
+    rgba(7, 140, 49, 55) 0%,
+    rgba(6, 89, 2, 35) 60%,
+    rgba(6, 89, 35) 100%
+  );
+}
