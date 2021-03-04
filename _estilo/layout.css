@@ -91,3 +91,22 @@ nav ion-icon#icone-user:hover {
   color: #f2b705;
   cursor: pointer;
 }
+/* Section Domingo Perfeito */
+section#domingo-perfeito {
+  width: 100%;
+  padding: 40px 0 80px;
+  display: flex;
+  flex-flow: row;
+}
+div#domingo-perfeito-esquerda {
+  width: 100%;
+  padding: 40px 0 80px;
+  display: flex;
+  flex-flow: row;
+}
+div#domingo-perfeito-esquerda {
+  width: 100%;
+  padding: 40px 0 80px;
+  display: flex;
+  flex-flow: row;
+}
