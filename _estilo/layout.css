@@ -93,20 +93,20 @@ nav ion-icon#icone-user:hover {
 }
 /* Section Domingo Perfeito */
 section#domingo-perfeito {
-  width: 100%;
+  max-width: 90%;
+  margin: auto;
   padding: 40px 0 80px;
   display: flex;
+  justify-content: space-around;
   flex-flow: row;
+  border: 1px solid #111;
 }
-div#domingo-perfeito-esquerda {
-  width: 100%;
-  padding: 40px 0 80px;
-  display: flex;
-  flex-flow: row;
+div#domingo-perfeito-esquerda,
+div#domingo-perfeito-direita {
+  position: relative;
+  width: 15%;
+  background-color: yellow;
 }
-div#domingo-perfeito-esquerda {
-  width: 100%;
-  padding: 40px 0 80px;
-  display: flex;
-  flex-flow: row;
+div#domingo-perfeito-centro {
+  width: 65%;
 }
